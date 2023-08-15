@@ -1,0 +1,11 @@
+#trash {
+    display: none !important;
+}
+
+#lista:hover + #trash{
+	display: block !important;
+}
+
+#trash:hover {
+	display: block !important;
+}
